@@ -10255,10 +10255,10 @@
     "@react-spring/shared" "~9.7.3"
     "@react-spring/types" "~9.7.3"
 
-"@redhat-developer/red-hat-developer-hub-theme@0.1.7":
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/@redhat-developer/red-hat-developer-hub-theme/-/red-hat-developer-hub-theme-0.1.7.tgz#85ee286267fdd3deeff10f8e440220fb486edb3f"
-  integrity sha512-qpvtQUan8fjWqeQm6FL60syytSqHY115F7J44cW1Pqr+CGv0SmvGWSiiKYK1A/mzOX6lgO+ukO4dzwb0XDluPQ==
+"@redhat-developer/red-hat-developer-hub-theme@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@redhat-developer/red-hat-developer-hub-theme/-/red-hat-developer-hub-theme-0.2.0.tgz#b2068953b45a549c0630bf8f42e699afffec4785"
+  integrity sha512-Zd69ikw25UAwRhJIaxdH9ptRLwAYkczrmcS4yl9ZCvZddyoE4BYvn/nHM7OEwkFEtcHP7UHYQUlCRoBWSddlbg==
 
 "@remix-run/router@1.18.0":
   version "1.18.0"
@@ -28892,10 +28892,10 @@ tslib@^1.11.1, tslib@^1.14.1, tslib@^1.8.1, tslib@^1.9.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tss-react@4.9.10:
-  version "4.9.10"
-  resolved "https://registry.yarnpkg.com/tss-react/-/tss-react-4.9.10.tgz#287392f4459116ac83c51fc117fad138ac06f139"
-  integrity sha512-uQj+r8mOKy0tv+/GAIzViVG81w/WeTCOF7tjsDyNjlicnWbxtssYwTvVjWT4lhWh5FSznDRy6RFp0BDdoLbxyg==
+tss-react@4.9.11:
+  version "4.9.11"
+  resolved "https://registry.yarnpkg.com/tss-react/-/tss-react-4.9.11.tgz#32c8bbdb2e5f7343f8c903b30d17d1fa6ce923d7"
+  integrity sha512-/d13qFXTYMzybOuoHsJwyvGuD9BWSAyOPqRa8GVxOB0MUBL0S4m0OiqIOf3a59xazLrmJvpSSoQwVIICZeoW6Q==
   dependencies:
     "@emotion/cache" "*"
     "@emotion/serialize" "*"
@@ -29224,10 +29224,10 @@ undici@5.28.4:
   dependencies:
     "@fastify/busboy" "^2.0.0"
 
-undici@6.19.4:
-  version "6.19.4"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-6.19.4.tgz#5ec3b191699a1678ee0aa9ed14e443a682d0f7a8"
-  integrity sha512-i3uaEUwNdkRq2qtTRRJb13moW5HWqviu7Vl7oYRYz++uPtGHJj+x7TGjcEuwS5Mt2P4nA0U9dhIX3DdB6JGY0g==
+undici@6.19.5:
+  version "6.19.5"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-6.19.5.tgz#5829101361b583b53206e81579f4df71c56d6be8"
+  integrity sha512-LryC15SWzqQsREHIOUybavaIHF5IoL0dJ9aWWxL/PgT1KfqAW5225FZpDUFlt9xiDMS2/S7DOKhFWA7RLksWdg==
 
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.0"
